@@ -1,0 +1,40 @@
+header{
+  font-size: 64px;
+  text-align: left;
+  font-family: 'Lobster', cursive;
+  color: black;
+
+}
+h1{
+  color: #cf3706;
+  font-size:40px;
+  background-color:black;
+  font-weight:normal;
+}
+
+
+nav a{
+ color: white;
+ font-size: 20px;
+ text-align: center;
+ font-family: 'Playfair Display', serif;
+ display: inline-block;
+ margin: 2px;
+ width: 250px;
+}
+
+h2{
+  color: black;
+  font-size:25px;
+  font-family: 'Lobster', cursive;
+}
+
+body{
+  background-color: #D8D8D8;
+
+}
+
+#introwords{
+  width: 950px;
+  margin: 10px;
+}
